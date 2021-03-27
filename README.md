@@ -87,4 +87,8 @@ Learning GO with 30 small projects:
 
 - implement your own random number generating function. Find any approach on the internet that you want to implement and do so.
 
-22.
+22. Contact Tracing
+
+- Implement two functions. Function one takes in a slice of tuples. The tuples consist of the names of individuals. These two individuals had direct contact with one another. Function two takes a single tuple of two names. Function two returns a number (or list of names) representing the minimum distance between those two people given all the tuples stored from function one.
+
+23.
