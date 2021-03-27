@@ -91,4 +91,12 @@ Learning GO with 30 small projects:
 
 - Implement two functions. Function one takes in a slice of tuples. The tuples consist of the names of individuals. These two individuals had direct contact with one another. Function two takes a single tuple of two names. Function two returns a number (or list of names) representing the minimum distance between those two people given all the tuples stored from function one.
 
-23.
+23. Parallel routines
+
+- Implement two functions that take the same inputs and have the same outputs. Each function will take a slice of positive integers and return a slice of integers. Within the function, iterate over the list of floats, and for each float count the number of values between 1 that value that have a perfect square root. (use the math package). Return this count. (for example, the number 12 exceeds 3 perfect square roots: 1, 4, 9). In one of the functions, use parallel processing to improve speed of execution.
+
+24. Consuming API
+
+- Implement a method to call a GET API that responds with JSON. Log that data to the console in any way you'd like. (API: https://randomuser.me/api/ Reference Material: https://randomuser.me/)
+
+25.
