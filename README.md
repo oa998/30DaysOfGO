@@ -99,4 +99,8 @@ Learning GO with 30 small projects:
 
 - Implement a method to call a GET API that responds with JSON. Log that data to the console in any way you'd like. (API: https://randomuser.me/api/ Reference Material: https://randomuser.me/)
 
-25.
+25. Blackjack
+
+- Implement a main method that deals enough cards to both players until they each have a hand that is worth more than 16. If any player has a hand worth more than 21, that player loses. If both players have hands worth 21 or less, the one with the highest hand wins.
+
+26.
