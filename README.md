@@ -107,7 +107,7 @@ Learning GO with 30 small projects:
 
 - Implement a main method that deals enough cards to both players until they each have a hand that is worth more than 16. If any player has a hand worth more than 21, that player loses. If both players have hands worth 21 or less, the one with the highest hand wins.
 
-26. **Repeated Phrases** ✅ (DONE. ~2 hours **1**)
+26. **Repeated Phrases** ✅ (1. duration ~2 hours)
 
 - Given a text file of prose (sentences, like exerpts from a book), separate the text into sentences then compose a map of phrases where the key is the phrase and the value is an integer. Phrases are any word combinations of 2 or more words. Ignore capitalization and punctionation. A sentence is delimited by a period (.) or exclamation point (!).
 
