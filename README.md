@@ -1,5 +1,7 @@
 ## 30DaysOfGO
 
+#### I know nothing about +golang+
+
 Learning GO with 30 small projects:
 
 1. Rock Paper Scissors
