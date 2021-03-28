@@ -20,7 +20,7 @@ example output:
 > - used in (4)
 > - of the (4)
 
-Corpus:
+Corpus: (From the "sorting algorithms" wikipedia article: https://en.wikipedia.org/wiki/Sorting_algorithm)
 
 > Stable sort algorithms sort repeated elements in the same order that they appear in the input. When sorting some kinds of data, only part of the data is examined when determining the sort order. For example, in the card sorting example to the right, the cards are being sorted by their rank, and their suit is being ignored. This allows the possibility of multiple different correctly sorted versions of the original list. Stable sorting algorithms choose one of these, according to the following rule: if two items compare as equal, like the two 5 cards, then their relative order will be preserved, so that if one came before the other in the input, it will also come before the other in the output.
 >
