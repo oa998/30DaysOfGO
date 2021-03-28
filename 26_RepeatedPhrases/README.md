@@ -7,6 +7,7 @@ Phrases can not span multiple sentences:
 > The cat was black. Black cats are unlucky.
 
 `"was black black cats"` is **not** a valid phrase
+
 `"cat was black"` is a valid phrase
 
 example output:
