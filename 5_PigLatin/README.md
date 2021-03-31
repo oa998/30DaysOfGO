@@ -4,8 +4,8 @@ Given an input sentence, delimited by spaces, convert the sentence to Pig Latin.
 
 input:
 
-> the cat is in the barn
+`the cat is in the barn`
 
 output:
 
-> ehtay tacay siay niay ehtay narbay
+`ehtay tacay siay niay ehtay narbay`
