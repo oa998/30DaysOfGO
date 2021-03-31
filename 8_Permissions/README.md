@@ -29,3 +29,7 @@ output:
 0010000 Super ✅
 ---
 ```
+
+Resources:
+
+- https://yourbasic.org/golang/bitmask-flag-set-clear/

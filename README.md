@@ -22,7 +22,7 @@ Learning GO with 30 small projects:
 
 - Two functions. Function one takes a string and returns an encoded string and a number (positive or negative). Function two takes a string and a number and returns the decoded string.
 
-5. **Pig Latin**
+5. **Pig Latin** ✅ (2. duration ~15 minutes)
 
 - given a statement of words, take the first letter of every word, moving it to the end of the word and adding ‘ay’
 
@@ -34,7 +34,7 @@ Learning GO with 30 small projects:
 
 - Two functions. Function one takes a single slice of elements and returns it randomized. Function two takes 2 slices of the the same types and returns one list where elements of list two are "weaved" (every-other) into list one.
 
-8. **Permissions Library**
+8. **Permissions Function** ✅ (3. duration 20 minutes)
 
 - Create permissions assigned to 1-hot "permissions" vectors (integers). Given any integer, return a list of strings that identify what permissions that integer "has". (1101 & 0011 = 0001)
 
