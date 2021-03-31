@@ -8,7 +8,7 @@ Given an integer (uint8 is what I used), determine what constants that integer i
 
 input:
 
-> 23 // 0010111 in binary
+`23 // 0010111 in binary`
 
 output:
 
