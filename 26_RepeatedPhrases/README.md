@@ -12,13 +12,15 @@ Phrases can not span multiple sentences:
 
 example output:
 
-> Top 5 phrases:
->
-> - in the (10)
-> - such as (9)
-> - insertion sort (4)
-> - used in (4)
-> - of the (4)
+```
+Top 5 phrases:
+
+- in the (10)
+- such as (9)
+- insertion sort (4)
+- used in (4)
+- of the (4)
+```
 
 Corpus: (From the "sorting algorithms" wikipedia article: https://en.wikipedia.org/wiki/Sorting_algorithm)
 
