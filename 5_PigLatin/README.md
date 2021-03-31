@@ -1,3 +1,5 @@
+### Pig Latin
+
 Given an input sentence, delimited by spaces, convert the sentence to Pig Latin. Move the first letter of every word to the end of the word and append "ay"
 
 input:
