@@ -38,7 +38,7 @@ Learning GO with 30 small projects:
 
 - Create permissions assigned to 1-hot "permissions" vectors (integers). Given any integer, return a list of strings that identify what permissions that integer "has". (1101 & 0011 = 0001)
 
-9. **tr -s**
+9. **tr -s** ✅ (4. duration ~8 minutes)
 
 - given a string, return a string where all adjacent, repeated characters are reduced to just 1 instance of that character. ("aaabbcdd" -> "abcd")
 
