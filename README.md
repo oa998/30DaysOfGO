@@ -93,7 +93,7 @@ Learning GO with 30 small projects:
 
 22. **Contact Tracing**
 
-- Implement two functions. Function one takes in a slice of tuples. The tuples consist of the names of individuals. These two individuals had direct contact with one another. Function two takes a single tuple of two names. Function two returns a number (or list of names) representing the minimum distance between those two people given all the tuples stored from function one.
+- You start with an adjacency map of strings. These strings are the names of inividuals that have had direct contact with one another. Write a function that takes the name of two people and returns the shortest distance between them. Example: Bob is adjacent to Karen. Karen is adjacent to Tyler. The shortest distance between Bob and Tyler is 2.
 
 23. **Parallel routines**
 
