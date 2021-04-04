@@ -46,7 +46,7 @@ Learning GO with 30 small projects:
 
 - Function tries to find the best way to fit small boxes into a bigger box. Write a function that takes 2 structs each with 3 integers (length, width, height). Struct 1 is the big box. Struct 2 is the little box. You may rotate the smaller box 90 degrees on any axis. Find the maximum number of little boxes you can fit into the bigger box.
 
-11. **Odds or Evens**
+11. **Odds or Evens** ✅ (5. duration ~10 minutes)
 
 - Function that takes a positive integer. Without converting the integer to a string, determine which is larger: the sum of all the odd digits or the sum of all the even digits. Return the string "even" or "odd" accordingly.
 
@@ -54,7 +54,7 @@ Learning GO with 30 small projects:
 
 - Function that takes 2 positive integers. Return True if the two numbers are coprime. Else return false.
 
-13. **Largest subsequence**
+13. **Largest subsequence** ✅ (6. duration ~20 minutes)
 
 - Function that takes 2 positive integers. The first number should be greater than 9999. The second number should be less than 10. Search the first number for the largest number with as many digits as stated by the second parameter. (378289324, 5 => 89324)
 
