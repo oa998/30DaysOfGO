@@ -57,6 +57,8 @@ func main() {
 
 	// start, end := "Kim", "Mike" // 1
 	// start, end := "Kim", "Mason" // 2
-	start, end := "Kim", "Trevor" // 3
+	// start, end := "Kim", "Trevor" // 3
+	start, end := "Kim", "Theo" // 0
+
 	fmt.Printf("Distance from %s to %s is %d\n", start, end, bfs([]string{start}, end, 0))
 }
