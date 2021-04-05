@@ -11,6 +11,15 @@ func contains(slice []string, element string) bool {
 	return false
 }
 
+func containsAll(universe []string, contents []string) bool {
+	for _, val := range contents {
+		if !contains(universe, val) {
+			return false
+		}
+	}
+	return true
+}
+
 func createMap(neighbors [][]string) map[string][]string {
 	var adjacencyMap = make(map[string][]string)
 	for _, pair := range neighbors {
@@ -42,6 +51,10 @@ func main() {
 	var bfs func(start []string, end string, depth int) int
 
 	bfs = func(start []string, end string, depth int) int {
+		if containsAll(visited, start) {
+			// If you've visited all of these already, then no path
+			return 0
+		}
 		visited = append(visited, start...)
 
 		var adj []string
@@ -57,8 +70,8 @@ func main() {
 
 	// start, end := "Kim", "Mike" // 1
 	// start, end := "Kim", "Mason" // 2
-	// start, end := "Kim", "Trevor" // 3
-	start, end := "Kim", "Theo" // 0
+	start, end := "Kim", "Trevor" // 3
+	// start, end := "Kim", "Theo" // 0
 
 	fmt.Printf("Distance from %s to %s is %d\n", start, end, bfs([]string{start}, end, 0))
 }
