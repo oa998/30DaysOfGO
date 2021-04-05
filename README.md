@@ -91,7 +91,7 @@ Learning GO with 30 small projects:
 
 - implement your own random number generating function. Find any approach on the internet that you want to implement and do so.
 
-22. **Contact Tracing**
+22. **Contact Tracing** ✅ (7. duration ~1 hour)
 
 - You start with an adjacency map of strings. These strings are the names of inividuals that have had direct contact with one another. Write a function that takes the name of two people and returns the shortest distance between them. Example: Bob is adjacent to Karen. Karen is adjacent to Tyler. The shortest distance between Bob and Tyler is 2.
 
