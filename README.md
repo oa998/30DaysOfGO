@@ -50,7 +50,7 @@ Learning GO with 30 small projects:
 
 - Function that takes a positive integer. Without converting the integer to a string, determine which is larger: the sum of all the odd digits or the sum of all the even digits. Return the string "even" or "odd" accordingly.
 
-12. **Coprime**
+12. **Coprime** ✅ (8. duration ~25 minutes)
 
 - Function that takes 2 positive integers. Return True if the two numbers are coprime. Else return false.
 
