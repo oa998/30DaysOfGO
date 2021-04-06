@@ -30,7 +30,7 @@ Learning GO with 30 small projects:
 
 - Two functions. Each takes two (x, y) coordinates. One function returns the midpoint of the two coordinates. The other function returns the distance between the two coordinates.
 
-7. **Slice Library**
+7. **Slice Library** ✅ (9. duration ~35 minutes)
 
 - Two functions. Function one takes a single slice of elements and returns it randomized. Function two takes 2 slices of the the same types and returns one list where elements of list two are "weaved" (every-other) into list one.
 
