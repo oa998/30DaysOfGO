@@ -26,7 +26,7 @@ Learning GO with 30 small projects:
 
 - given a statement of words, take the first letter of every word, moving it to the end of the word and adding ‘ay’
 
-6. **Coordinate Library**
+6. **Coordinate Library** ✅ (10. duration ~15 minutes)
 
 - Two functions. Each takes two (x, y) coordinates. One function returns the midpoint of the two coordinates. The other function returns the distance between the two coordinates.
 
